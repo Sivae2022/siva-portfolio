@@ -4,7 +4,7 @@ import job from "../assets/projects/job.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 
 import music from "../assets/projects/music.jpg";
-export const HERO_CONTENT = `Hi, I'm Siva, a passionate and dedicated 2nd-year Computer Science student at Sri Eshwar College Of Engineering. With a strong foundation in both front-end and back-end technologies, I specialize in creating dynamic, responsive, and user-friendly web applications. My journey in the world of programming started early on, and since then, I have honed my skills in full-stack development through various projects and freelance work.`;
+export const HERO_CONTENT = `Hi, I'm Siva, a passionate and dedicated pre-final Computer Science student at Sri Eshwar College Of Engineering. With a strong foundation in both front-end and back-end technologies, I specialize in creating dynamic, responsive, and user-friendly web applications. My journey in the world of programming started early on, and since then, I have honed my skills in full-stack development through various projects and freelance work.`;
 
 export const ABOUT_TEXT = `As a freelancer, I have successfully delivered several projects for clients, ranging from small businesses to personal websites. I am always eager to take on new challenges and am continuously learning to stay up-to-date with the latest industry trends and technologies. My goal is to leverage my skills to solve real-world problems and contribute to impactful projects.`;
 
