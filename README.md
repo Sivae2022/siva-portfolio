@@ -1,8 +1,28 @@
-# React + Vite
+A responsive and modern personal portfolio website built using React.js & Tailwind CSS to showcase my projects, skills, and experience.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Features
+🖥️ Fully responsive design
+📄 About, Projects, Skills, and Contact sections
+🎨 Clean UI with smooth animations
+🔗 Social media and GitHub integration
+🛠 Tech Stack
+Frontend: React.js, Tailwind CSS
+Hosting: Vercel / GitHub Pages / Netlify
+📌 Installation
+bash
+Copy
+Edit
+git clone https://github.com/Sivae2022/portfolio.git
+cd portfolio
+npm install
+npm start
+The website runs at http://localhost:3000
 
-Currently, two official plugins are available:
+🌍 Live Demo
+🔗 View Portfolio
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🤝 Contributing
+Feel free to fork and improve!
+
+📜 License
+MIT License
